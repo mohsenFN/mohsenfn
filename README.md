@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=mohsenfn)
+
 # Hello, I'm Mohsen! 👋
 
 ### I'm Coding for fun it's like my manfor thing. I'm currently in Iran.
@@ -17,7 +19,7 @@
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs&theme=radical)](https://github.com/your-username)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohsenfn&show_icons=true&count_private=true&hide=contribs&theme=radical)](https://github.com/mohsenfn)
 
 
 Feel free to explore my repositories and collaborate on interesting projects. Happy coding! 🚀
