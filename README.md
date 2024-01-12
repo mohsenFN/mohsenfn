@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, I'm Mohsen! 👋
 
-<!--
-**mohsenFN/mohsenfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Coding for fun it's like my manfor thing. I'm currently in Iran.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Soozan Project !
+- ⚡ Number 1 : Ever tried something out of this world XD ?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Technologies & Tools
+
+- Programming Languages: Python and JavaScript
+- Web Technologies: Django, Flask, PTB
+- Databases: MariaDB and PostgreSQL
+- Tools: GNU/Linux + OhMyZSH + VS Code + Postman 
+
+
+
+## GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs&theme=radical)](https://github.com/your-username)
+
+
+Feel free to explore my repositories and collaborate on interesting projects. Happy coding! 🚀
