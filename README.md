@@ -3,7 +3,7 @@
 ### I'm Coding for fun it's like my manfor thing. I'm currently in Iran.
 
 #### - 🔭 I’m currently working on Soozan Project !
-- ⚡ Number 1 : Ever tried something out of this world XD ?
+#### - ⚡ Number 1 : Ever tried something out of this world XD ?
 
 
 ## Technologies & Tools
